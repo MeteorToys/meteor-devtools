@@ -9,7 +9,7 @@ Package.describe({
 
 Package.onUse(function(api) {
 
-  api.use("msavin:mongol"); 
-  api.use("msavin:jetsetter");
+  api.use("msavin:mongol@1.0.2"); 
+  api.use("msavin:jetsetter@0.1.0");
 
 });
