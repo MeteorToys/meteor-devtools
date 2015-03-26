@@ -1,4 +1,6 @@
 Meteor Toys
 ===========
 
-All the Meteor Toys in one handy package. It's like candy that lasts forever. No configuration necessary, just run run "meteor add meteortoys:allthings"
+With Meteor Toys, you can debug your Session variables and MongoDB collections on the client side. Get them all here in one convenient package.
+
+Simply install the package, then press Control + M in the window to get started. No configuration necessary.
