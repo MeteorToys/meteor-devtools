@@ -1,3 +1,5 @@
+<a href="http://meteor.toys"><img src="https://raw.githubusercontent.com/MeteorToys/allthings/master/screenshot.png"></a>
+
 Meteor Toys
 ===========
 
