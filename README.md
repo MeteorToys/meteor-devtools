@@ -3,30 +3,34 @@
 Meteor Toys
 ===========
 
-Meteor Toys are a set of overlay tools designed to help you more productive and to help you enjoy more. By providing a visual interface to some of Meteor's core features, Meteor Toys turn the boring stuff into fun.
+<a href="http://meteor.toys">Meteor Toys</a> are a set of overlay tools designed to help you be more productive and have a good time doing so. By providing a visual interface to some of Meteor's core features, Meteor Toys turn boring activites into fun.
 
-Basic Version
+Open Source Version
 =============
-Upon installation, you will receive Mongol and JetSetter in your applications. Mongol allows you to visually fetch, insert remove and update your MongoDB colections. JetSetter allows you get/set values for Session variables. Mongol and JetSetter are becoming standard tools in the Meteor community, with a combined 10,000+ organic downloads and 500+ stars on GitHub.
+When you install Meteor Toys, you will recieve: 
+ - <a href="http://github.com/msavin/Mongol">Mongol</a>: a visual tool viewing and editing your client-side MongoDB documents
+ - <a href="http://github.com/msavin/JetSetter">JetSetter</a>: a visual tool to Get/Set your Session variables
 
-Pro Version
+Mongol and JetSetter are a complete alternative to the commands you would run in your console (insert, update, remove, get, set). With a combined 10,000+ installations and 500+ stars on GitHub, you will wonder how you ever got by without them.
+
+Premium Version
 ===========
-By purchasing a Meteor Toys license, you can unlock the next level of these tools while supporting their development. Imagine the ease of working with:
+The premium Meteor Toys extend your development environment by giving you capabilites that weren't available before. These include:
  - Mongol Pro: featuring trash can for restoring removed documents, and the ability to reset collections
- - JetSetter Pro: featuring ability to watch reactive variables and dictionaries, and 
- - Impersonate: Tired of signing in and out of accounts to test your app? With Impersonate, you can log in as any account with one click.
+ - JetSetter Pro: featuring the ability to watch reactive variables and dictionaries
+ - Impersonate: sign into any account with just a click, as opposed to signing in and out all the time
  - Pub/Sub: View all your active subscriptions instead of guessing if they are on. Click on it to stop it, or to start a new one. 
- - Shell: Run code as a method on your server and get the results in the console. Great for testing methods while you write them.
- - Method: View a list of all your application methods, then click on them to enter their params and call them. No more running through the source to see how it works. 
+ - Shell: Run code as a method on your server and get the results back in the console. Great for testing methods as you write them.
+ - Method: View a list of all your application methods, then click on them to enter their params and call them. The result goes to your console.
  - DDP Listener: With just a click to start, you can observe how data flows in and out your application.
- - Reloader: Trigger a hot reload with just a click. So much easier than trying to stick a space somewhere in your app to trigger it.
+ - Hot Reload: Trigger a hot reload with just a click. So much easier than trying to trigger it than by modifying your code. 
 
 Plug-&-Play Installation
 ========================
-Simply install the package, then press Control + M in the browser window to activate. No configuration necessary.
+Simply install the package, then press Control + M in the browser window to activate. 
 
 	$ meteor add meteortoys:allthings
 
-By installing Meteor Toys, you agree to our <a href="https://github.com/MeteorToys/allthings/blob/master/LICENSE.md">End User License Agreement</a>.
+Note: If you have Mongol and/or JetSetter installed, please remove them before installation. By installing Meteor Toys, you agree to our <a href="https://github.com/MeteorToys/allthings/blob/master/LICENSE.md">End User License Agreement</a>.
 
-(c) FaverSocial LLC 2014
+© FaverSocial, LLC 2014
