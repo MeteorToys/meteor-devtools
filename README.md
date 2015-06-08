@@ -30,6 +30,6 @@ By purchasing a Meteor Toys license, you can unlock Mongol Pro, JetSetter Pro, a
 FAQ
 ==========
 
-Meteor Toys are modular, namespaced and work seamlessly with Meteor's API. `
+Meteor Toys are modular, namespaced and work with Meteor's standard API. Because they are debugOnly packages, they do not ship to production.
 
 
