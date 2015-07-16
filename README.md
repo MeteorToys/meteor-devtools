@@ -25,7 +25,7 @@ The basic Meteor Toys will give you access to:
 Pro Version
 ===========
 
-By purchasing a Meteor Toys license, you can unlock Mongol Pro, JetSetter Pro, and the Meteor Orbs. To learn ore, go to <a href="http://meteor.toys">http://meteor.toys</a>
+By purchasing a Meteor Toys license, you can unlock Mongol Pro, JetSetter Pro, and the Meteor Orbs. To learn more, go to <a href="http://meteor.toys">http://meteor.toys</a>
 
 FAQ
 ==========
