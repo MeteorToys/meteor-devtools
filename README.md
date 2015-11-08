@@ -1,35 +1,36 @@
-<a href="http://bit.ly/1Gui3q4"><img align="center" src="http://maxsavin.com/sandbox/MeteorToysAd.png"></a>
+<a href="http://bit.ly/1ARJG4x"><img align="center" src="http://maxsavin.com/sandbox/MeteorToysAd.png"></a>
 Meteor Toys
 ===========
 
-Meteor Toys are a set of overlay tools designed to help you be more productive and enjoy development more. By providing a visual interface to some of Meteor's core features, Meteor Toys turn the boring stuff into fun.
+Meteor Toys are a set of in-app development tools designed to transform your development experience. And because they are a debugOnly package, they do not compile to your production build.
 
-<img src="http://meteor.toys/800px.png">
+<a href="http://mongol.meteor.com"><img src="https://raw.githubusercontent.com/msavin/Mongol/master/documentation/screenshots/4.png"></a>
 
-Plug and Play
-=============
+What Do Meteor Toys Provide?
+----------------------------
+When you install Meteor Toys, you will automatically get access to Mongol and JetSetter, which were the original development tools for Meteor. If you choose to purchase an activation key, you can gain access to premium features such as: 
+ - AutoPub: publish all the documents from the database to the client in just a click
+ - Authenticate: one-click account sign-in for faster debugging 
+ - Throttle: slow down your application connection to the server for a more realistic experience of your app
 
-By installing Meteor Toys, you agree to our <a href="">End User License Agreement</a>. To get started, simply run 
-	
-	meteor add meteortoys:allthings
+For more information, check out the Meteor Toys website. 
 
-Meteor Toys do not require any configuration. After installing them, press Control + M in your browser window to activate. If you are using Mongol and/or JetSetter, make sure to remove them before installing this package. 
+Plug & Play Installation
+------------------------
 
-Basic Version
-=============
+Meteor Toys configure automatically. To get started, run:
 
-The basic Meteor Toys will give you access to: 
- - Mongol: a visual editing tool for MongoDB
- - JetSetter: a visual editing tool for Session variables
+	$ meteor add meteortoys:allthings
 
-Pro Version
-===========
+After installation, open your app in the browser and press Control + M to toggle it. If you require additional instructions or configuration, check out the <a href="">documentation</a>.
 
-By purchasing a Meteor Toys license, you can unlock Mongol Pro, JetSetter Pro, and the Meteor Orbs. To learn more, go to <a href="http://meteor.toys">http://meteor.toys</a>
+FAQ 
+---
+<strong>Do Meteor Toys require insecure or autopublish to work?</strong> No, Meteor Toys have special set of publications and methods that allow it to interact with your application independently from everything else.
 
-FAQ
-==========
+<strong>Is there a security risk to using Meteor Toys?</strong> Since Meteor Toys are a `debugOnly` package, Meteor's build process will not compile it into production code.
 
-Meteor Toys are modular, namespaced and work with Meteor's standard API. Because they are debugOnly packages, they do not ship to production.
+<strong>Will Meteor Toys cause my application to behave differently?</strong> All of the code and functions of Meteor Toys are pre-fixed and scoped, so there shouldn't be any intrusion.
 
-
+<center>Meteor Toys are licensed under the <a href="https://github.com/MeteorToys/allthings/blob/master/LICENSE.md">Meteor Toys License</a>.
+(C) FaverSocial, LLC 2014. All Rights Reserved.</center>
