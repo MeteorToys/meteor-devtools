@@ -4,7 +4,7 @@ Meteor Toys
 
 Meteor Toys are a set of in-app development tools designed to transform your development experience. And because they are a debugOnly package, they do not compile to your production build.
 
-<a href="http://mongol.meteor.com"><img src="https://raw.githubusercontent.com/msavin/Mongol/master/documentation/screenshots/4.png"></a>
+<a href="http://meteor.toys"><img src="https://raw.githubusercontent.com/MeteorToys/allthings/master/screenshot.gif"></a>
 
 What Do Meteor Toys Provide?
 ----------------------------
