@@ -22,7 +22,7 @@ Meteor Toys configure automatically. To get started, run:
 
 	$ meteor add meteortoys:allthings
 
-After installation, open your app in the browser and press Control + M to toggle it. If you require additional instructions or configuration, check out the documentation on the <a href="http://meteor.toys">website</a>.
+After installation, open your app in the browser and press Control + M to toggle it. If you require additional instructions or configuration, check out the <a href="">documentation</a>.
 
 FAQ 
 ---
